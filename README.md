@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is basic react.js application which display covid data on browser. The screen will look like this.
+
+![image](https://user-images.githubusercontent.com/11911948/130745153-b90cd215-88dc-47cb-b5f8-fad05a18d0bb.png)
+
 
 ## Available Scripts
 
